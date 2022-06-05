@@ -8,7 +8,7 @@ from spotipy.oauth2 import SpotifyOAuth
 from twitchio.ext import pubsub
 
 reward_name = "Add Song to Spotify Playlist"
-streamer_name = "castcrafter"
+streamer_name = ""
 
 spotify_client_id = ""
 spotify_client_secret = ""
