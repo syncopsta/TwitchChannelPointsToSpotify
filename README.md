@@ -23,6 +23,6 @@ This is a python script to create a community playlist with channel points rewar
       - Set the Redirect URI "http://localhost:1337/" under "Edit Settings"
 
 # Variables
-reward_name is the reward name on twitch 
-streamer_name is your name on twitch
-spotify_playlist is the playlist id from spotify 
+* reward_name is the reward name on twitch 
+* streamer_name is your name on twitch
+* spotify_playlist is the playlist id from spotify 
